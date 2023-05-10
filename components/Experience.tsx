@@ -8,7 +8,6 @@ import Section from './Section';
 
 import { experienceData } from '../utils/experience';
 // Animations
-import { buttonHover } from '../utils/animations';
 import ExperienceCard from './ExperienceCard';
 
 
