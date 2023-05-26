@@ -16,14 +16,14 @@ export default function Document() {
         />
 
         {/* <!-- HTML Meta Tags --> */}
-        <meta name="title" content="Ken Nersisyan –– Portfolio" />
+<!--         <meta name="title" content="Annie David –– Portfolio" />
         <meta
           name="description"
           content="Portfolio website of front-end engineer Ken Nersisyan"
-        />
+        /> -->
 
         {/* <!-- Facebook Meta Tags --> */}
-        <meta property="og:url" content="https://www.ken.engineer/" />
+<!--         <meta property="og:url" content="https://www.ken.engineer/" />
         <meta property="og:title" content="Ken Nersisyan –– Portfolio" />
         <meta
           property="og:description"
@@ -33,9 +33,9 @@ export default function Document() {
           property="og:image"
           content="https://raw.githubusercontent.com/kens-visuals/ken.engineer/main/public/assets/seo-img.png"
         />
-
+ -->
         {/* <!-- Twitter Meta Tags --> */}
-        <meta name="twitter:card" content="summary_large_image" />
+<!--         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="ken.engineer" />
         <meta property="twitter:url" content="https://www.ken.engineer/" />
         <meta name="twitter:title" content="Ken Nersisyan –– Portfolio" />
@@ -46,10 +46,12 @@ export default function Document() {
         <meta
           name="twitter:image"
           content="https://raw.githubusercontent.com/kens-visuals/ken.engineer/main/public/assets/seo-img.png"
-        />
+        /> -->
 
         {/* Favicon */}
-        <link
+        <
+        
+        
           rel="apple-touch-icon"
           sizes="180x180"
           href="/apple-touch-icon.png"
