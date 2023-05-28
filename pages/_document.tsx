@@ -16,29 +16,6 @@ export default function Document() {
           rel="stylesheet"
         />
 
-        {/* <!-- HTML Meta Tags --> */}
-      <meta name="title" content="Annie David –– Portfolio" />
-        <meta
-          name="description"
-          content="Portfolio website of front-end engineer Annie David"
-        />
-
-        {/* <!-- Facebook Meta Tags --> */}
-        <meta property="og:title" content="Annie David –– Portfolio" />
-        <meta
-          property="og:description"
-          content="Portfolio website of front-end engineer Ken Nersisyan"
-        />
-
-
-        {/* <!-- Twitter Meta Tags --> */}
-  <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="Annie David" />
-        <meta name="twitter:title" content="Annie David –– Portfolio" />
-        <meta
-          name="twitter:description"
-          content="Portfolio website of front-end engineer Annie David"
-        />
 
 
         {/* Favicon */}
